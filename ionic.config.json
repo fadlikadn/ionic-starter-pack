@@ -1,0 +1,8 @@
+{
+  "name": "af2-lists",
+  "app_id": "19268900",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
